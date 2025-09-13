@@ -51,21 +51,31 @@ ________________________________________
 •	PDU details for local communication(Pinging from 172.16.31.5 to 172.16.31.2)<br>
 
 At 172.16.31.5
+
 <img width="641" height="634" alt="Screenshot 2025-09-13 144537" src="https://github.com/user-attachments/assets/01151593-111c-476e-bdce-8053f09fda34" />
+
 At 172.16.31.2
+
 <img width="627" height="615" alt="Screenshot 2025-09-13 145026" src="https://github.com/user-attachments/assets/151ee15f-075c-4b9e-b009-7395f91af0fa" />
 
 •	PDU details for remote communication(Pinging from 172.16.31.5 to 10.10.10.2)<br>
+
 At 172.16.31.5
+
 <img width="641" height="634" alt="Screenshot 2025-09-13 144537" src="https://github.com/user-attachments/assets/505d5a7f-d7e5-4fb6-b105-b84bcedd06af" />
+
 At 10.10.10.2
+
 <img width="630" height="583" alt="Screenshot 2025-09-13 151814" src="https://github.com/user-attachments/assets/35654015-71ff-485d-babc-313936a8c6a3" />
 
 •	Tables showing MAC/IP changes through each device<br>
+
 Local Communication(From 172.16.31.5 to 172.16.31.2)
+
 <img width="622" height="137" alt="489140310-5e4c28b1-085d-459c-8bbc-f28ff7f63d16" src="https://github.com/user-attachments/assets/35ff5ba1-89ee-4186-a909-ae498b720283" />
 
 Remote Communication(From 172.16.31.5 to 10.10.10.2)
+
 <img width="616" height="187" alt="489140455-6d59484e-2360-4cb5-bd80-2cb70851bd11" src="https://github.com/user-attachments/assets/3192cf0e-510d-4c31-984e-6f4da3b99259" />
 
 ________________________________________
