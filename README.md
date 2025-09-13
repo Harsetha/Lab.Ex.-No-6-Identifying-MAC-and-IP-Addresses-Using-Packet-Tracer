@@ -66,7 +66,6 @@ Local Communication(From 172.16.31.5 to 172.16.31.2)
 Remote Communication(From 172.16.31.5 to 10.10.10.2)
 <img width="616" height="187" alt="489140455-6d59484e-2360-4cb5-bd80-2cb70851bd11" src="https://github.com/user-attachments/assets/3192cf0e-510d-4c31-984e-6f4da3b99259" />
 
-
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
